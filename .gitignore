@@ -1,5 +1,7 @@
 .idea
 _output/
+/tools/
+/build/
 coverage.txt
 yunikorn-release
 shellcheck
